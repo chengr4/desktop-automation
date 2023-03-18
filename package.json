@@ -1,0 +1,9 @@
+{
+  "name": "desktop-automation",
+  "version": "1.0.0",
+  "description": "Desktop automation",
+  "main": "index.js",
+  "repository": "https://github.com/chengr4/desktop-automation.git",
+  "author": "Eddie Cheng <schaffenneu47@gmail.com>",
+  "license": "MIT"
+}
