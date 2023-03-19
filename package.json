@@ -3,7 +3,11 @@
   "version": "1.0.0",
   "description": "Desktop automation",
   "main": "index.js",
+  "type": "module",
   "repository": "https://github.com/chengr4/desktop-automation.git",
   "author": "Eddie Cheng <schaffenneu47@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "robotjs": "^0.6.0"
+  }
 }
